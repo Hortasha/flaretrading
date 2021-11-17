@@ -1,0 +1,349 @@
+Calculating Possiblities
+Calculating Possiblities
+Balance after trade: NaN xUSD
+Trade Volume: 1000 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 687201.8585467789 xUSD
+Balance before trade: 254684.95483121468 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Trade Volume: 1000 xUSD
+Balance before trade: 254684.95483121468 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 687201.8585467789 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Balance before trade: 255293.25468575626 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Treat: NaN xUSD
+Trade Volume: 1000 xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Trade Volume: 1000 xUSD
+Balance before trade: 255293.25468575626 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Balance before trade: 255293.25468575626 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Trade Volume: 1000 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Balance before trade: 255293.25468575626 xUSD
+Trade Volume: 1000 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Balance before trade: 255293.25468575626 xUSD
+Trade Volume: 1000 xUSD
+One or more rates are not being updated
+Treat: NaN xUSD
+Calculating Possiblities
+Treat: NaN xUSD
+Balance before trade: 255293.25468575626 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Trade Volume: 1000 xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Balance before trade: 255293.25468575626 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Treat: NaN xUSD
+Trade Volume: 1000 xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Balance before trade: 255293.25468575626 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Trade Volume: 1000 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Balance before trade: 255293.25468575626 xUSD
+Trade Volume: 1000 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Trade Volume: 1000 xUSD
+Balance before trade: 255293.25468575626 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Balance before trade: 255293.25468575626 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Treat: NaN xUSD
+Trade Volume: 1000 xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Trade Volume: 1000 xUSD
+Balance before trade: 255293.25468575626 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Balance before trade: 255293.25468575626 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Treat: NaN xUSD
+Trade Volume: 1000 xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Balance before trade: 255293.25468575626 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Treat: NaN xUSD
+Trade Volume: 1000 xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Balance before trade: 255293.25468575626 xUSD
+Treat: NaN xUSD
+Trade Volume: 1000 xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Treat: NaN xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Trade Volume: 1000 xUSD
+One or more rates are not being updated
+Balance before trade: 255293.25468575626 xUSD
+Calculating Possiblities
+Balance before trade: 255293.25468575626 xUSD
+Trade Volume: 1000 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Balance before trade: 255293.25468575626 xUSD
+Trade Volume: 1000 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Balance before trade: 255293.25468575626 xUSD
+Trade Volume: 1000 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Balance before trade: 255293.25468575626 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Trade Volume: 1000 xUSD
+One or more rates are not being updated
+Treat: NaN xUSD
+Calculating Possiblities
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Balance before trade: 255293.25468575626 xUSD
+Trade Volume: 1000 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Balance before trade: 255293.25468575626 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Trade Volume: 1000 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Balance before trade: 255293.25468575626 xUSD
+Treat: NaN xUSD
+Trade Volume: 1000 xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Balance before trade: 255293.25468575626 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Trade Volume: 1000 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Balance before trade: 255293.25468575626 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Trade Volume: 1000 xUSD
+Calculating Possiblities
+Balance before trade: 255293.25468575626 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 702079.4508117281 xUSD
+Trade Volume: 1000 xUSD
+One or more rates are not being updated
+Treat: NaN xUSD
+Calculating Possiblities
+Balance before trade: 255293.25468575626 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 70676.39778067893 xUSD
+One or more rates are not being updated
+New Trade
+Trade Volume: 100 xUSD
+Treat: NaN xUSD
+Calculating Possiblities
+Balance before trade: 255293.25468575626 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 70676.39778067893 xUSD
+One or more rates are not being updated
+Trade Volume: 100 xUSD
+New Trade
+Treat: NaN xUSD
+Calculating Possiblities
+Balance before trade: 256127.39846227528 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 73531.02224036871 xUSD
+One or more rates are not being updated
+New Trade
+Treat: NaN xUSD
+Trade Volume: 100 xUSD
+Calculating Possiblities
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 73531.02224036871 xUSD
+Treat: NaN xUSD
+Trade Volume: 100 xUSD
+Balance before trade: 256127.39846227528 xUSD
+One or more rates are not being updated
+New Trade
+Calculating Possiblities
+Balance before trade: 256127.39846227528 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 73531.02224036871 xUSD
+Treat: NaN xUSD
+Trade Volume: 100 xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Trade Volume: 100 xUSD
+Treat: NaN xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 73531.02224036871 xUSD
+One or more rates are not being updated
+Balance before trade: 256127.39846227528 xUSD
+Calculating Possiblities
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 73531.02224036871 xUSD
+Balance before trade: 256127.39846227528 xUSD
+Trade Volume: 100 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Balance before trade: 256127.39846227528 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 73531.02224036871 xUSD
+Treat: NaN xUSD
+Trade Volume: 100 xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Balance before trade: 256127.39846227528 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 73531.02224036871 xUSD
+Trade Volume: 100 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Balance before trade: 256783.8344707886 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 74130.1905187691 xUSD
+One or more rates are not being updated
+Trade Volume: 100 xUSD
+Treat: NaN xUSD
+Calculating Possiblities
+Balance before trade: 256783.8344707886 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 74130.1905187691 xUSD
+Trade Volume: 100 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Trade Volume: 100 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 74130.1905187691 xUSD
+Balance before trade: 256783.8344707886 xUSD
+One or more rates are not being updated
+Treat: NaN xUSD
+Calculating Possiblities
+Balance before trade: 256783.8344707886 xUSD
+Treat: NaN xUSD
+Trade Volume: 100 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 74130.1905187691 xUSD
+One or more rates are not being updated
+Calculating Possiblities
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 74130.1905187691 xUSD
+Balance before trade: 256783.8344707886 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+Trade Volume: 100 xUSD
+Calculating Possiblities
+Balance before trade: 256783.8344707886 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 74130.1905187691 xUSD
+Treat: NaN xUSD
+Trade Volume: 100 xUSD
+One or more rates are not being updated
+New Trade
+Calculating Possiblities
+Balance before trade: 256783.8344707886 xUSD
+Trade Volume: 100 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 74130.1905187691 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+New Trade
+Calculating Possiblities
+Balance before trade: 256783.8344707886 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 74130.1905187691 xUSD
+Trade Volume: 100 xUSD
+One or more rates are not being updated
+Treat: NaN xUSD
+New Trade
+Calculating Possiblities
+Trade Volume: 100 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 74130.1905187691 xUSD
+Balance before trade: 256783.8344707886 xUSD
+New Trade
+One or more rates are not being updated
+Treat: NaN xUSD
+Calculating Possiblities
+Balance before trade: 256620.16310457932 xUSD
+One or more rates are not being updated
+Trade Volume: 100 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 79065.88675730598 xUSD
+Treat: NaN xUSD
+New Trade
+Calculating Possiblities
+Balance before trade: 256620.16310457932 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 79065.88675730598 xUSD
+Trade Volume: 100 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+New Trade
+Calculating Possiblities
+Balance before trade: 256620.16310457932 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 79065.88675730598 xUSD
+Treat: NaN xUSD
+Trade Volume: 100 xUSD
+One or more rates are not being updated
+New Trade
+Calculating Possiblities
+Balance before trade: 256620.16310457932 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 79065.88675730598 xUSD
+Trade Volume: 100 xUSD
+One or more rates are not being updated
+Treat: NaN xUSD
+New Trade
+Calculating Possiblities
+Balance before trade: 256620.16310457932 xUSD
+Trade Volume: 100 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 79065.88675730598 xUSD
+Treat: NaN xUSD
+One or more rates are not being updated
+New Trade
+Calculating Possiblities
+Trade Volume: 100 xUSD
+Treat: NaN xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 79065.88675730598 xUSD
+Balance before trade: 256620.16310457932 xUSD
+One or more rates are not being updated
+New Trade
+Calculating Possiblities
+Balance before trade: 259778.5419584353 xUSD
+Treat: NaN xUSD
+Trade Volume: 100 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 87348.09799554913 xUSD
+One or more rates are not being updated
+New Trade
+Calculating Possiblities
+Balance before trade: 259778.5419584353 xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 87348.09799554913 xUSD
+Treat: NaN xUSD
+Trade Volume: 100 xUSD
+One or more rates are not being updated
+New Trade
+Calculating Possiblities
+Treat: NaN xUSD
+Arb: FDOGE => xUSD => YFLR => FDOGE Expected Gain: 87348.09799554913 xUSD
+Trade Volume: 100 xUSD
+Balance before trade: 259778.5419584353 xUSD
+New Trade
+One or more rates are not being updated
